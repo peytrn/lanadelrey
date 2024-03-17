@@ -1,0 +1,143 @@
+@font-face {
+    font-family: 'Adobe Garamond';
+    src: url('AGaramond-Bold.eot');
+    src: url('AGaramond-Bold.eot?#iefix') format('embedded-opentype'),
+        url('AGaramond-Bold.woff2') format('woff2'),
+        url('AGaramond-Bold.woff') format('woff'),
+        url('AGaramond-Bold.ttf') format('truetype'),
+        url('AGaramond-Bold.svg#AGaramond-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Garamond';
+    src: url('AGaramond-Semibold.eot');
+    src: url('AGaramond-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('AGaramond-Semibold.woff2') format('woff2'),
+        url('AGaramond-Semibold.woff') format('woff'),
+        url('AGaramond-Semibold.ttf') format('truetype'),
+        url('AGaramond-Semibold.svg#AGaramond-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Garamond';
+    src: url('AGaramond-SemiboldItalic.eot');
+    src: url('AGaramond-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('AGaramond-SemiboldItalic.woff2') format('woff2'),
+        url('AGaramond-SemiboldItalic.woff') format('woff'),
+        url('AGaramond-SemiboldItalic.ttf') format('truetype'),
+        url('AGaramond-SemiboldItalic.svg#AGaramond-SemiboldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Garamond';
+    src: url('AGaramond-Italic.eot');
+    src: url('AGaramond-Italic.eot?#iefix') format('embedded-opentype'),
+        url('AGaramond-Italic.woff2') format('woff2'),
+        url('AGaramond-Italic.woff') format('woff'),
+        url('AGaramond-Italic.ttf') format('truetype'),
+        url('AGaramond-Italic.svg#AGaramond-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Adobe Garamond';
+    src: url('AGaramond-Regular.eot');
+    src: url('AGaramond-Regular.eot?#iefix') format('embedded-opentype'),
+        url('AGaramond-Regular.woff2') format('woff2'),
+        url('AGaramond-Regular.woff') format('woff'),
+        url('AGaramond-Regular.ttf') format('truetype'),
+        url('AGaramond-Regular.svg#AGaramond-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Florentine Script II AT';
+    src: url('FlorentineScriptIIAT.eot');
+    src: url('FlorentineScriptIIAT.eot?#iefix') format('embedded-opentype'),
+        url('FlorentineScriptIIAT.woff2') format('woff2'),
+        url('FlorentineScriptIIAT.woff') format('woff'),
+        url('FlorentineScriptIIAT.ttf') format('truetype'),
+        url('FlorentineScriptIIAT.svg#FlorentineScriptIIAT') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS PF BeauSans Pro';
+    src: url('FSPFBeauSansProBlack.eot');
+    src: url('FSPFBeauSansProBlack.eot?#iefix') format('embedded-opentype'),
+        url('FSPFBeauSansProBlack.woff2') format('woff2'),
+        url('FSPFBeauSansProBlack.woff') format('woff'),
+        url('FSPFBeauSansProBlack.ttf') format('truetype'),
+        url('FSPFBeauSansProBlack.svg#FSPFBeauSansProBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS PF BeauSans Pro';
+    src: url('FSPFBeauSansProItalic.eot');
+    src: url('FSPFBeauSansProItalic.eot?#iefix') format('embedded-opentype'),
+        url('FSPFBeauSansProItalic.woff2') format('woff2'),
+        url('FSPFBeauSansProItalic.woff') format('woff'),
+        url('FSPFBeauSansProItalic.ttf') format('truetype'),
+        url('FSPFBeauSansProItalic.svg#FSPFBeauSansProItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS PF BeauSans Pro Bbook';
+    src: url('FSPFBeauSansProBbook.eot');
+    src: url('FSPFBeauSansProBbook.eot?#iefix') format('embedded-opentype'),
+        url('FSPFBeauSansProBbook.woff2') format('woff2'),
+        url('FSPFBeauSansProBbook.woff') format('woff'),
+        url('FSPFBeauSansProBbook.ttf') format('truetype'),
+        url('FSPFBeauSansProBbook.svg#FSPFBeauSansProBbook') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FS PF BeauSans Pro';
+    src: url('FSPFBeauSansPro.eot');
+    src: url('FSPFBeauSansPro.eot?#iefix') format('embedded-opentype'),
+        url('FSPFBeauSansPro.woff2') format('woff2'),
+        url('FSPFBeauSansPro.woff') format('woff'),
+        url('FSPFBeauSansPro.ttf') format('truetype'),
+        url('FSPFBeauSansPro.svg#FSPFBeauSansPro') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Rainbow';
+    src: url('Rainbow.eot');
+    src: url('Rainbow.eot?#iefix') format('embedded-opentype'),
+        url('Rainbow.woff2') format('woff2'),
+        url('Rainbow.woff') format('woff'),
+        url('Rainbow.ttf') format('truetype'),
+        url('Rainbow.svg#Rainbow') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
